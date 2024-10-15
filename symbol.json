@@ -1,0 +1,524 @@
+[
+    {
+        "symbol": "AAPL"
+    },
+    {
+        "symbol": "MSFT"
+    },
+    {
+        "symbol": "AMZN"
+    },
+    {
+        "symbol": "GOOGL"
+    },
+    {
+        "symbol": "TSLA"
+    },
+    {
+        "symbol": "NVDA"
+    },
+    {
+        "symbol": "META"
+    },
+    {
+        "symbol": "NFLX"
+    },
+    {
+        "symbol": "INTC"
+    },
+    {
+        "symbol": "CSCO"
+    },
+    {
+        "symbol": "ADBE"
+    },
+    {
+        "symbol": "PYPL"
+    },
+    {
+        "symbol": "PEP"
+    },
+    {
+        "symbol": "QCOM"
+    },
+    {
+        "symbol": "SBUX"
+    },
+    {
+        "symbol": "AMGN"
+    },
+    {
+        "symbol": "AVGO"
+    },
+    {
+        "symbol": "TXN"
+    },
+    {
+        "symbol": "COST"
+    },
+    {
+        "symbol": "CHTR"
+    },
+    {
+        "symbol": "MDLZ"
+    },
+    {
+        "symbol": "BKNG"
+    },
+    {
+        "symbol": "GILD"
+    },
+    {
+        "symbol": "FISV"
+    },
+    {
+        "symbol": "ADP"
+    },
+    {
+        "symbol": "ISRG"
+    },
+    {
+        "symbol": "TMUS"
+    },
+    {
+        "symbol": "VRTX"
+    },
+    {
+        "symbol": "CSX"
+    },
+    {
+        "symbol": "ILMN"
+    },
+    {
+        "symbol": "LRCX"
+    },
+    {
+        "symbol": "KHC"
+    },
+    {
+        "symbol": "MNST"
+    },
+    {
+        "symbol": "NTES"
+    },
+    {
+        "symbol": "JD"
+    },
+    {
+        "symbol": "CTSH"
+    },
+    {
+        "symbol": "BIDU"
+    },
+    {
+        "symbol": "MCHP"
+    },
+    {
+        "symbol": "XEL"
+    },
+    {
+        "symbol": "CTAS"
+    },
+    {
+        "symbol": "WDAY"
+    },
+    {
+        "symbol": "SPLK"
+    },
+    {
+        "symbol": "SNPS"
+    },
+    {
+        "symbol": "SGEN"
+    },
+    {
+        "symbol": "MAR"
+    },
+    {
+        "symbol": "EBAY"
+    },
+    {
+        "symbol": "EXPE"
+    },
+    {
+        "symbol": "ROST"
+    },
+    {
+        "symbol": "SWKS"
+    },
+    {
+        "symbol": "DLTR"
+    },
+    {
+        "symbol": "VRSK"
+    },
+    {
+        "symbol": "DOCU"
+    },
+    {
+        "symbol": "OKTA"
+    },
+    {
+        "symbol": "ZS"
+    },
+    {
+        "symbol": "SIRI"
+    },
+    {
+        "symbol": "EA"
+    },
+    {
+        "symbol": "REGN"
+    },
+    {
+        "symbol": "NTAP"
+    },
+    {
+        "symbol": "CHKP"
+    },
+    {
+        "symbol": "FAST"
+    },
+    {
+        "symbol": "PCAR"
+    },
+    {
+        "symbol": "KLAC"
+    },
+    {
+        "symbol": "MXIM"
+    },
+    {
+        "symbol": "VRSN"
+    },
+    {
+        "symbol": "INCY"
+    },
+    {
+        "symbol": "ORLY"
+    },
+    {
+        "symbol": "IDXX"
+    },
+    {
+        "symbol": "ALGN"
+    },
+    {
+        "symbol": "TTWO"
+    },
+    {
+        "symbol": "ANSS"
+    },
+    {
+        "symbol": "CDNS"
+    },
+    {
+        "symbol": "DXCM"
+    },
+    {
+        "symbol": "PAYX"
+    },
+    {
+        "symbol": "AEP"
+    },
+    {
+        "symbol": "AMAT"
+    },
+    {
+        "symbol": "MRNA"
+    },
+    {
+        "symbol": "ZM"
+    },
+    {
+        "symbol": "TEAM"
+    },
+    {
+        "symbol": "ZS"
+    },
+    {
+        "symbol": "CRWD"
+    },
+    {
+        "symbol": "DOCU"
+    },
+    {
+        "symbol": "PDD"
+    },
+    {
+        "symbol": "JD"
+    },
+    {
+        "symbol": "BIDU"
+    },
+    {
+        "symbol": "VIPS"
+    },
+    {
+        "symbol": "BABA"
+    },
+    {
+        "symbol": "TRIP"
+    },
+    {
+        "symbol": "ETSY"
+    },
+    {
+        "symbol": "MELI"
+    },
+    {
+        "symbol": "SHOP"
+    },
+    {
+        "symbol": "SQ"
+    },
+    {
+        "symbol": "SPOT"
+    },
+    {
+        "symbol": "ROKU"
+    },
+    {
+        "symbol": "TTD"
+    },
+    {
+        "symbol": "SNOW"
+    },
+    {
+        "symbol": "PLTR"
+    },
+    {
+        "symbol": "ABNB"
+    },
+    {
+        "symbol": "UBER"
+    },
+    {
+        "symbol": "LYFT"
+    },
+    {
+        "symbol": "ZM"
+    },
+    {
+        "symbol": "PINS"
+    },
+    {
+        "symbol": "TWTR"
+    },
+    {
+        "symbol": "SNAP"
+    },
+    {
+        "symbol": "DOCU"
+    },
+    {
+        "symbol": "CRM"
+    },
+    {
+        "symbol": "MSFT"
+    },
+    {
+        "symbol": "ADBE"
+    },
+    {
+        "symbol": "ORCL"
+    },
+    {
+        "symbol": "SAP"
+    },
+    {
+        "symbol": "TWLO"
+    },
+    {
+        "symbol": "SHOP"
+    },
+    {
+        "symbol": "DOCU"
+    },
+    {
+        "symbol": "HUBS"
+    },
+    {
+        "symbol": "TEAM"
+    },
+    {
+        "symbol": "ZM"
+    },
+    {
+        "symbol": "MDB"
+    },
+    {
+        "symbol": "NET"
+    },
+    {
+        "symbol": "OKTA"
+    },
+    {
+        "symbol": "PANW"
+    },
+    {
+        "symbol": "CYBR"
+    },
+    {
+        "symbol": "ZS"
+    },
+    {
+        "symbol": "CRWD"
+    },
+    {
+        "symbol": "SNOW"
+    },
+    {
+        "symbol": "DDOG"
+    },
+    {
+        "symbol": "ESTC"
+    },
+    {
+        "symbol": "FSLY"
+    },
+    {
+        "symbol": "DOCN"
+    },
+    {
+        "symbol": "BAND"
+    },
+    {
+        "symbol": "FIVN"
+    },
+    {
+        "symbol": "CFLT"
+    },
+    {
+        "symbol": "MNDY"
+    },
+    {
+        "symbol": "S"
+    },
+    {
+        "symbol": "GLBE"
+    },
+    {
+        "symbol": "DT"
+    },
+    {
+        "symbol": "PD"
+    },
+    {
+        "symbol": "ZS"
+    },
+    {
+        "symbol": "APPN"
+    },
+    {
+        "symbol": "UPST"
+    },
+    {
+        "symbol": "AFRM"
+    },
+    {
+        "symbol": "COUP"
+    },
+    {
+        "symbol": "BILL"
+    },
+    {
+        "symbol": "ASAN"
+    },
+    {
+        "symbol": "ROKU"
+    },
+    {
+        "symbol": "PINS"
+    },
+    {
+        "symbol": "SPOT"
+    },
+    {
+        "symbol": "SQ"
+    },
+    {
+        "symbol": "PYPL"
+    },
+    {
+        "symbol": "LYFT"
+    },
+    {
+        "symbol": "ABNB"
+    },
+    {
+        "symbol": "UBER"
+    },
+    {
+        "symbol": "LYFT"
+    },
+    {
+        "symbol": "DOCU"
+    },
+    {
+        "symbol": "NFLX"
+    },
+    {
+        "symbol": "SHOP"
+    },
+    {
+        "symbol": "TSLA"
+    },
+    {
+        "symbol": "NVDA"
+    },
+    {
+        "symbol": "AAPL"
+    },
+    {
+        "symbol": "GOOGL"
+    },
+    {
+        "symbol": "MSFT"
+    },
+    {
+        "symbol": "AMZN"
+    },
+    {
+        "symbol": "FB"
+    },
+    {
+        "symbol": "TWTR"
+    },
+    {
+        "symbol": "ZM"
+    },
+    {
+        "symbol": "ROKU"
+    },
+    {
+        "symbol": "SPOT"
+    },
+    {
+        "symbol": "ETSY"
+    },
+    {
+        "symbol": "UBER"
+    },
+    {
+        "symbol": "LYFT"
+    },
+    {
+        "symbol": "ABNB"
+    },
+    {
+        "symbol": "BABA"
+    },
+    {
+        "symbol": "JD"
+    },
+    {
+        "symbol": "BIDU"
+    },
+    {
+        "symbol": "PDD"
+    },
+    {
+        "symbol": "VIPS"
+    }
+]
